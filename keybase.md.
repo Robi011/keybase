@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am robi011 on github.
+  * I am robi01 (https://keybase.io/robi01) on keybase.
+  * I have a public key ASBxAuVcZLnzBYK0gYaCAoWOo9xO3b76lhXxOWBQP6bwuQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207102e55c64b9f30582b481868202858ea3dc4eddbefa9615f13960503fa6f0b90a",
+      "host": "keybase.io",
+      "kid": "01207102e55c64b9f30582b481868202858ea3dc4eddbefa9615f13960503fa6f0b90a",
+      "uid": "166bc8d2f262273cdc4cb1b386f39219",
+      "username": "robi01"
+    },
+    "merkle_root": {
+      "ctime": 1568246421,
+      "hash": "3231d9a39aa74dab2f4f1fa8d91122ad690d2f14adaa272ef4006366230d229552cb21d971816ebe0a1a0038341faf7f3b6c5e4b17011b0945611937f8d11f80",
+      "hash_meta": "64e2e761a05092a6b0c50b0b6fa36f998a7bd1efa7b6ec2a9c692d496089cb0c",
+      "seqno": 6843223
+    },
+    "service": {
+      "entropy": "Tsyq1yO+DHqeaa2UEVIA/0l8",
+      "name": "github",
+      "username": "robi011"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568246437,
+  "expire_in": 504576000,
+  "prev": "a618711454a2b8f9bb086d0f08ea11712de2d786044a2676a1cd7a039cca7c0e",
+  "seqno": 10,
+  "tag": "signature"
+}
+```
+
+with the key [ASBxAuVcZLnzBYK0gYaCAoWOo9xO3b76lhXxOWBQP6bwuQo](https://keybase.io/robi01), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgcQLlXGS58wWCtIGGggKFjqPcTt2++pYV8TlgUD+m8LkKp3BheWxvYWTESpcCCsQgphhxFFSiuPm7CG0PCOoRcS3i14YESiZ2oc16A5zKfA7EIGBYXOWEKULDd3F2kPa4oakKL5jZf1+BRH77sd85FuMlAgHCo3NpZ8RAXyda3u0Pie9kmSp3g9BmnqgNrgDJC8V/X5UvVMGLjgwfxvgHdZAWz7BHcZUaOTU7NIuEF9zaW2qSWOD9UfalCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICUfikm06VgX1vZ7x/J3XwF8DZMLihC5aJIJPnlYr+PIo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/robi01
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id robi01
+```
